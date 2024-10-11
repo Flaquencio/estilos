@@ -1,0 +1,21 @@
+/*h1, a, div, p{
+    background: #ff8000
+}*/
+
+body{
+    background: url("../img/imagen\ html.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: blue;
+}
+
+div{
+    width: 120px;
+    height: 500px;
+    background: #ff8000;
+    margin: 20px 50px;
+    padding: 30px;
+    border: 10px solid #000;
+    display: block;
+}
